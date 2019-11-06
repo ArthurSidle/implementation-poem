@@ -1,0 +1,33 @@
+/*
+Color Palette:
+#0F2129
+#012E40
+#025159
+#027373
+#C3A894
+*/
+
+.bg-colour1 {
+    background-color: #0F2129;
+    color: white;
+}
+
+.bg-colour2 {
+    background-color: #012E40;
+    color: white;
+}
+
+.bg-colour3 {
+    background-color: #025159;
+    color: white;
+}
+
+.bg-colour4 {
+    background-color: #027373;
+    color: black;
+}
+
+.bg-colour5 {
+    background-color: #C3A894;
+    color: black;
+}
